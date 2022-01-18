@@ -1,2 +1,2 @@
-provola
-giao giao giao
+Elimino la provola precedente
+Nuova provola
